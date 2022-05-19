@@ -9,6 +9,8 @@ main() {
   // até que não seja maior ou igual a zero
   //realizando uma decrescente de 10 a 0.
 
+  // O for é usado para quando se tem valores pré determinados
+
   print('decrescente de 10 a 0!');
   print('');
 
